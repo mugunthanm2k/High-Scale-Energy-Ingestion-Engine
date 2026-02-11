@@ -4,7 +4,7 @@ A **production-ready, high-throughput telemetry ingestion system** designed for 
 
 Built with a scalable **Hot/Cold storage architecture**, optimized for **time-series energy data**, and engineered for real-time analytics and performance monitoring.
 
-🔗 **GitHub Repository:** [(https://github.com/mugunthanm2k/High-Scale-Energy-Ingestion-Engine.git)](#)  
+🔗 **GitHub Repository:** https://github.com/mugunthanm2k/High-Scale-Energy-Ingestion-Engine.git  
 
 ---
 
@@ -82,7 +82,7 @@ Devices (10,000+) → Ingestion API → PostgreSQL Database → Analytics API �
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone (https://github.com/mugunthanm2k/High-Scale-Energy-Ingestion-Engine.git)
+git clone https://github.com/mugunthanm2k/High-Scale-Energy-Ingestion-Engine.git
 cd high-scale-energy-ingestion-engine
 ```
 2️⃣ Install Dependencies
